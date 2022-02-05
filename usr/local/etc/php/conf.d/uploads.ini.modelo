@@ -1,0 +1,4 @@
+; Tamanho máximo de arquivos para uploads. Ex: 10M
+upload_max_filesize = %UPLOAD_MAX_FILE_SIZE%;
+; Tamanho máximo do post
+post_max_size=%POST_MAX_SIZE%;
